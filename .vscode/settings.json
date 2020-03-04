@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/skirby/anaconda3/envs/first-model/bin/python"
+    "python.pythonPath": "/home/skirby/anaconda3/envs/first-model/bin/python",
+    "python.envFile": "${first-model}/.env"
 }
